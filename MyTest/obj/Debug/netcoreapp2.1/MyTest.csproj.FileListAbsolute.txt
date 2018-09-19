@@ -1,0 +1,17 @@
+/projects/Withdraw/MyTest/obj/Debug/netcoreapp2.1/MyTest.csprojAssemblyReference.cache
+/projects/Withdraw/MyTest/obj/Debug/netcoreapp2.1/MyTest.csproj.CoreCompileInputs.cache
+/projects/Withdraw/MyTest/obj/Debug/netcoreapp2.1/MyTest.AssemblyInfoInputs.cache
+/projects/Withdraw/MyTest/obj/Debug/netcoreapp2.1/MyTest.AssemblyInfo.cs
+/projects/Withdraw/MyTest/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/projects/Withdraw/MyTest/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/projects/Withdraw/MyTest/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/projects/Withdraw/MyTest/bin/Debug/netcoreapp2.1/MyTest.deps.json
+/projects/Withdraw/MyTest/bin/Debug/netcoreapp2.1/MyTest.runtimeconfig.json
+/projects/Withdraw/MyTest/bin/Debug/netcoreapp2.1/MyTest.runtimeconfig.dev.json
+/projects/Withdraw/MyTest/bin/Debug/netcoreapp2.1/MyTest.dll
+/projects/Withdraw/MyTest/bin/Debug/netcoreapp2.1/MyTest.pdb
+/projects/Withdraw/MyTest/bin/Debug/netcoreapp2.1/Withdraw.dll
+/projects/Withdraw/MyTest/bin/Debug/netcoreapp2.1/Withdraw.pdb
+/projects/Withdraw/MyTest/obj/Debug/netcoreapp2.1/MyTest.csproj.CopyComplete
+/projects/Withdraw/MyTest/obj/Debug/netcoreapp2.1/MyTest.dll
+/projects/Withdraw/MyTest/obj/Debug/netcoreapp2.1/MyTest.pdb

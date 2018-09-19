@@ -1,0 +1,9 @@
+/projects/Withdraw/Withdraw/obj/Debug/netstandard2.0/Withdraw.csprojAssemblyReference.cache
+/projects/Withdraw/Withdraw/obj/Debug/netstandard2.0/Withdraw.csproj.CoreCompileInputs.cache
+/projects/Withdraw/Withdraw/obj/Debug/netstandard2.0/Withdraw.AssemblyInfoInputs.cache
+/projects/Withdraw/Withdraw/obj/Debug/netstandard2.0/Withdraw.AssemblyInfo.cs
+/projects/Withdraw/Withdraw/bin/Debug/netstandard2.0/Withdraw.deps.json
+/projects/Withdraw/Withdraw/bin/Debug/netstandard2.0/Withdraw.dll
+/projects/Withdraw/Withdraw/bin/Debug/netstandard2.0/Withdraw.pdb
+/projects/Withdraw/Withdraw/obj/Debug/netstandard2.0/Withdraw.dll
+/projects/Withdraw/Withdraw/obj/Debug/netstandard2.0/Withdraw.pdb
